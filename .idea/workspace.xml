@@ -1,20 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0595fceb-c872-47fc-a044-c7ceebe4ba50" name="Changes" comment="" />
+    <list default="true" id="0595fceb-c872-47fc-a044-c7ceebe4ba50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cna_reminder/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/cna_reminder/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cna_reminder/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/cna_reminder/excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cna_reminder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/cna_reminder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cna_reminder/message.py" beforeDir="false" afterPath="$PROJECT_DIR$/cna_reminder/message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cna_reminder/whatsapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/cna_reminder/whatsapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cna_livros.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/cna_livros.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucasdasilvamaria&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lucasdasilvamaria/cna_reminder.git&quot;,
+    &quot;accountId&quot;: &quot;906093a6-beb9-4cf4-bf7a-cc2292144d6c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="31hPlJbpWIYxFbBMSW5yJobDhvl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +55,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\PythonProject\cna_reminder\data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
